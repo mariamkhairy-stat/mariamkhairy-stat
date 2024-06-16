@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Mariam Khairy. 
-### a statistics graduate with a passion for data science. 📈
+### I'm passionate about leveraging mathematics, statistics 📈, coding, and data analysis to unlock insights and inform impactful decisions. My background in Statistics from Cairo University fuels my desire to empower institutions and policymakers with data-driven solutions. 
+
+### Constantly learning and evolving, I'm excited to explore the potential of advanced models to unlock even deeper meaning from data. 
+
 
 ## Problem Solving
 ### - [HackerRank Challenges] https://www.hackerrank.com/profile/mariamhagag16
